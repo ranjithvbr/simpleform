@@ -4,7 +4,6 @@ import './App.css';
 import 'bulma/css/bulma.css'
 import {BrowserRouter as Router, Route, NavLink, Redirect,Link} from "react-router-dom";
 import View from "./View"
-import Edit from "./Edit"
 
 
 
