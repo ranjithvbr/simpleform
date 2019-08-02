@@ -31,3 +31,18 @@
     transform: rotate(360deg);
   }
 }
+.headingmargin{
+  margin:50px;
+}
+
+.moverightname{
+  right:-18px ;
+}
+
+.moverightemail{
+  right:-20px ;
+}
+.moverightphone{
+  right:-14px ;
+
+}
